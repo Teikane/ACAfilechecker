@@ -8,11 +8,9 @@
 # Definitely more debug/testing needed.
 #
 # How to use (Windows): 
-# create shortcut link of aca_filecheck.exe
-# rename shortcut to your liking
-# shift right-click folder containing of shortcut
+# shift right-click folder containing aca_filechecker.exe or aca_filechecker.py
 # select open command prompt here
-# begin typing name of shortcut and press tab to auto complete
+# drag and drop the exe or py file
 # add a space
 # drag and drop csv file into command prompt
 # example of what command prompt at this point:
